@@ -390,7 +390,5 @@ final class HomeViewController: UIViewController {
             }
         }
     }
-    
-    
 }
 
