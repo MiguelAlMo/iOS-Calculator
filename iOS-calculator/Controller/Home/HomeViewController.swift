@@ -8,7 +8,6 @@
 import UIKit
 
 final class HomeViewController: UIViewController {
-
     // Numbers
     @IBOutlet weak var number0: UIButton!
     @IBOutlet weak var number1: UIButton!
